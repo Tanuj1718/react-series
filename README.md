@@ -21,3 +21,6 @@ DAY 2:
 KEY FEATURES OF FIBER: It includes the ability to pause, abort or reuse work as new updates are come in and the ability to assign priority to different types of updates.
 
 -> Reconciliation- It is a recursive algorithm of react which reconsider whom to update or not. It differentiate one tree with another tree to determine which parts need to be change in the actual tree.
+
+-> useState- setState of useState can receive a callback function for tracking previous values in UI. For more hooks, visit react.dev
+
