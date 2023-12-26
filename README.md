@@ -30,3 +30,8 @@ DAY 3:
 
 -> How to handle APIs
 
+DAY 4:
+
+-> React Router- It gives link, navlink.
+Link is used in place of 'a' tag. 'a' tag refreshes the whole page but in react we have not refresh concept. So it is good to use Link in place of 'a' tag.
+
