@@ -24,3 +24,9 @@ KEY FEATURES OF FIBER: It includes the ability to pause, abort or reuse work as 
 
 -> useState- setState of useState can receive a callback function for tracking previous values in UI. For more hooks, visit react.dev
 
+DAY 3: 
+
+-> Custom Hooks- We can create our own hooks with the functionality as per our requirements.
+
+-> How to handle APIs
+
