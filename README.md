@@ -35,3 +35,7 @@ DAY 4:
 -> React Router- It gives link, navlink.
 Link is used in place of 'a' tag. 'a' tag refreshes the whole page but in react we have not refresh concept. So it is good to use Link in place of 'a' tag.
 
+DAY 5:
+
+-> Context API: If we have to pass some data in the components which are nested, then we have to pass that data to all the components outside it. It was reducing the optimization ,so there comes a concept of context API, redux (redux toolkit for react).
+
