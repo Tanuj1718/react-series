@@ -39,3 +39,9 @@ DAY 5:
 
 -> Context API: If we have to pass some data in the components which are nested, then we have to pass that data to all the components outside it. It was reducing the optimization ,so there comes a concept of context API, redux (redux toolkit for react).
 
+DAY 6: 
+
+-> More about Context API and how to do production level code.
+
+-> Local Storage: How to use local storage and how to add application in local storage.
+
