@@ -39,3 +39,16 @@ DAY 5:
 
 -> Context API: If we have to pass some data in the components which are nested, then we have to pass that data to all the components outside it. It was reducing the optimization ,so there comes a concept of context API, redux (redux toolkit for react).
 
+DAY 6: 
+
+-> More about Context API and how to do production level code.
+
+-> Local Storage: How to use local storage and how to add application in local storage.
+
+DAY 7:
+
+-> Redux: Redux is most useful in cases when:
+
+The app state is updated frequently. The logic to update that state may be complex. The app has a medium or large-sized codebase, and might be worked on by many people. You need to see how that state is being updated over time.
+
+-> Redux Toolkit: Redux Toolkit eliminates accidental mutations, which have always been the #1 cause of Redux bugs. Redux Toolkit eliminates the need to write any action creators or action types by hand. Redux Toolkit eliminates the need to write manual and error-prone immutable update logic.
