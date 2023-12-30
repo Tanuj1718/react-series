@@ -126,6 +126,8 @@ export class Service{
             fileId
         )
     }
+
+    
 }
 const service = new Service()
 export default service
